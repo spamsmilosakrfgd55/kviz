@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Kolik je 5 + 3?",
+    "a": "6",
+    "b": "7",
+    "c": "8",
+    "d": "9",
+    "correct": "c"
+  },
+  {
+    "question": "Jaké je hlavní město ČR?",
+    "a": "Praha",
+    "b": "Brno",
+    "c": "Ostrava",
+    "d": "Plzeň",
+    "correct": "a"
+  }
+]
