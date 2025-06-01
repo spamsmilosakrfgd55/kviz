@@ -89,7 +89,7 @@ function submitAnswer() {
 
   if (answer === correct) {
     tokens += 2;
-    document.getElementById("feedback").textContent = "✅ Správně! +2 tokeny";
+    document.getElementById("feedback").textContent = "✅ Správně! +1 token";
   } else {
     document.getElementById("feedback").textContent = "❌ Špatně. -1 token";
   }
