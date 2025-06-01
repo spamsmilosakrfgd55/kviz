@@ -3,6 +3,16 @@ let currentQuestionIndex = 0;
 let selectedAnswer = null;
 let tokens = 10;
 
+// Funkce pro zamíchání pole (Fisher-Yates shuffle)
+function shuffleArray(array) {
+  let shuffled = array.slice(); // kopie pole
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
+}
+
 // ====== Cookies: načítání & ukládání ======
 function getCookie(name) {
   let match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
@@ -37,11 +47,11 @@ document.addEventListener("DOMContentLoaded", () => {
   updateTokenDisplay();
   handleHashGet();
 
-  // Načti otázky
+  // Načti otázky a zamíchej je
   fetch("questions.json")
     .then(res => res.json())
     .then(data => {
-      questions = data;
+      questions = shuffleArray(data);
       showQuestion();
     });
 });
@@ -79,14 +89,14 @@ function submitAnswer() {
 
   if (answer === correct) {
     tokens += 2;
-    document.getElementById("feedback").textContent = "✅ Správně! +1 token";
+    document.getElementById("feedback").textContent = "✅ Správně! +2 tokeny";
   } else {
     document.getElementById("feedback").textContent = "❌ Špatně. -1 token";
   }
 
   updateTokenDisplay();
 
-  // další otázka
+  // další otázka - náhodná
   currentQuestionIndex = (currentQuestionIndex + 1) % questions.length;
 
   setTimeout(() => {
