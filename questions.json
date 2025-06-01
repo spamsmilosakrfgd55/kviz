@@ -1,0 +1,418 @@
+[
+  {
+    "question": "Která herečka získala Oscara za hlavní roli ve filmu 'Černá labuť'?",
+    "a": "Natalie Portman",
+    "b": "Mila Kunis",
+    "c": "Winona Ryder",
+    "d": "Jennifer Connelly",
+    "correct": "a"
+  },
+  {
+    "question": "Která kapela je známá hitem 'Smells Like Teen Spirit'?",
+    "a": "Alice in Chains",
+    "b": "Soundgarden",
+    "c": "Nirvana",
+    "d": "Pearl Jam",
+    "correct": "c"
+  },
+  {
+    "question": "Který rok začala vláda Leopolda II. jako českého krále?",
+    "a": "1780",
+    "b": "1790",
+    "c": "1792",
+    "d": "1796",
+    "correct": "b"
+  },
+  {
+    "question": "Které hlavní město leží na řece Rhôně?",
+    "a": "Paříž",
+    "b": "Lyon",
+    "c": "Marseille",
+    "d": "Bordeaux",
+    "correct": "b"
+  },
+  {
+    "question": "Který herec hrál hlavní roli ve filmu 'Kmotr'?",
+    "a": "Al Pacino",
+    "b": "Marlon Brando",
+    "c": "James Caan",
+    "d": "Robert Duvall",
+    "correct": "b"
+  },
+  {
+    "question": "Která zpěvačka je známá svým albem '21'?",
+    "a": "Rihanna",
+    "b": "Adele",
+    "c": "Katy Perry",
+    "d": "Taylor Swift",
+    "correct": "b"
+  },
+  {
+    "question": "Který rok proběhla bitva u Stalingradu?",
+    "a": "1941",
+    "b": "1942",
+    "c": "1943",
+    "d": "1944",
+    "correct": "b"
+  },
+  {
+    "question": "Které je největší jezero v Severní Americe (podle objemu)?",
+    "a": "Hořejší jezero",
+    "b": "Michiganské jezero",
+    "c": "Huronské jezero",
+    "d": "Erijské jezero",
+    "correct": "a"
+  },
+  {
+    "question": "Která herečka získala Oscara za hlavní roli ve filmu 'The Help'?",
+    "a": "Viola Davis",
+    "b": "Emma Stone",
+    "c": "Octavia Spencer",
+    "d": "Jessica Chastain",
+    "correct": "a"
+  },
+  {
+    "question": "Která kapela je známá hitem 'With or Without You'?",
+    "a": "The Cure",
+    "b": "U2",
+    "c": "R.E.M.",
+    "d": "Depeche Mode",
+    "correct": "b"
+  },
+  {
+    "question": "Který rok začala vláda Františka II. jako českého krále?",
+    "a": "1792",
+    "b": "1804",
+    "c": "1815",
+    "d": "1835",
+    "correct": "a"
+  },
+  {
+    "question": "Které hlavní město leží na řece Tiber?",
+    "a": "Florence",
+    "b": "Venice",
+    "c": "Rome",
+    "d": "Milan",
+    "correct": "c"
+  },
+  {
+    "question": "Který herec hrál hlavní roli ve filmu 'Pán prstenů: Návrat krále'?",
+    "a": "Elijah Wood",
+    "b": "Viggo Mortensen",
+    "c": "Ian McKellen",
+    "d": "Sean Astin",
+    "correct": "a"
+  },
+  {
+    "question": "Která zpěvačka je známá svým hitem 'Halo'?",
+    "a": "Rihanna",
+    "b": "Beyoncé",
+    "c": "Alicia Keys",
+    "d": "Jennifer Hudson",
+    "correct": "b"
+  },
+  {
+    "question": "Který rok proběhla bitva u Normandie (D-Day)?",
+    "a": "1943",
+    "b": "1944",
+    "c": "1945",
+    "d": "1942",
+    "correct": "b"
+  },
+  {
+    "question": "Které je největší pohoří v Rusku?",
+    "a": "Ural",
+    "b": "Kavkaz",
+    "c": "Altaj",
+    "d": "Verchojanské pohoří",
+    "correct": "b"
+  },
+  {
+    "question": "Která herečka získala Oscara za hlavní roli ve filmu 'Její veličenstvo paní Brownová'?",
+    "a": "Judi Dench",
+    "b": "Helen Mirren",
+    "c": "Kate Winslet",
+    "d": "Meryl Streep",
+    "correct": "a"
+  },
+  {
+    "question": "Která kapela je známá hitem 'Hotel California'?",
+    "a": "Fleetwood Mac",
+    "b": "Eagles",
+    "c": "The Doobie Brothers",
+    "d": "Steely Dan",
+    "correct": "b"
+  },
+  {
+    "question": "Který rok začala vláda Ferdinanda V. (I.) jako českého krále?",
+    "a": "1830",
+    "b": "1835",
+    "c": "1848",
+    "d": "1867",
+    "correct": "b"
+  },
+  {
+    "question": "Které hlavní město leží na řece Sprévě?",
+    "a": "Drážďany",
+    "b": "Hamburk",
+    "c": "Berlín",
+    "d": "Mnichov",
+    "correct": "c"
+  },
+  {
+    "question": "Který herec hrál hlavní roli ve filmu 'Taxikář'?",
+    "a": "Al Pacino",
+    "b": "Robert De Niro",
+    "c": "Dustin Hoffman",
+    "d": "Harvey Keitel",
+    "correct": "b"
+  },
+  {
+    "question": "Která zpěvačka je známá svým albem 'Back to Black'?",
+    "a": "Duffy",
+    "b": "Amy Winehouse",
+    "c": "Adele",
+    "d": "Florence Welch",
+    "correct": "b"
+  },
+  {
+    "question": "Který rok proběhla bitva u El Alameinu?",
+    "a": "1940",
+    "b": "1942",
+    "c": "1943",
+    "d": "1944",
+    "correct": "b"
+  },
+  {
+    "question": "Které je největší jezero v Africe (podle objemu)?",
+    "a": "Viktoriino jezero",
+    "b": "Tanganika",
+    "c": "Malawi",
+    "d": "Albertovo jezero",
+    "correct": "b"
+  },
+  {
+    "question": "Která herečka získala Oscara za hlavní roli ve filmu 'Můj levý noha'?",
+    "a": "Michelle Pfeiffer",
+    "b": "Brenda Fricker",
+    "c": "Jessica Lange",
+    "d": "Sigourney Weaver",
+    "correct": "b"
+  },
+  {
+    "question": "Která kapela je známá hitem 'Bohemian Rhapsody'?",
+    "a": "The Who",
+    "b": "Queen",
+    "c": "The Rolling Stones",
+    "d": "Pink Floyd",
+    "correct": "b"
+  },
+  {
+    "question": "Který rok abdikoval Ferdinand V. (I.) jako český král?",
+    "a": "1848",
+    "b": "1849",
+    "c": "1850",
+    "d": "1851",
+    "correct": "a"
+  },
+  {
+    "question": "Které hlavní město leží na řece Dunaji?",
+    "a": "Vídeň",
+    "b": "Budapešť",
+    "c": "Bratislava",
+    "d": "Bělehrad",
+    "correct": "a"
+  },
+  {
+    "question": "Který herec hrál hlavní roli ve filmu 'Forrest Gump'?",
+    "a": "Tom Hanks",
+    "b": "Gary Sinise",
+    "c": "Robin Wright",
+    "d": "Sally Field",
+    "correct": "a"
+  },
+  {
+    "question": "Která zpěvačka je známá svým albem 'The Bodyguard' soundtrack?",
+    "a": "Celine Dion",
+    "b": "Mariah Carey",
+    "c": "Whitney Houston",
+    "d": "Barbra Streisand",
+    "correct": "c"
+  },
+  {
+    "question": "Který rok proběhla bitva u Kurska?",
+    "a": "1942",
+    "b": "1943",
+    "c": "1944",
+    "d": "1945",
+    "correct": "b"
+  },
+  {
+    "question": "Které je největší ostrovní stát v Evropě?",
+    "a": "Velká Británie",
+    "b": "Island",
+    "c": "Irsko",
+    "d": "Sicílie",
+    "correct": "a"
+  },
+  {
+    "question": "Která herečka získala Oscara za hlavní roli ve filmu 'Fargo'?",
+    "a": "Meryl Streep",
+    "b": "Frances McDormand",
+    "c": "Julianne Moore",
+    "d": "Holly Hunter",
+    "correct": "b"
+  },
+  {
+    "question": "Která kapela je známá hitem 'Stairway to Heaven'?",
+    "a": "Black Sabbath",
+    "b": "Led Zeppelin",
+    "c": "Deep Purple",
+    "d": "Pink Floyd",
+    "correct": "b"
+  },
+  {
+    "question": "Který rok nastoupil na český trůn František Josef I.?",
+    "a": "1848",
+    "b": "1849",
+    "c": "1850",
+    "d": "1867",
+    "correct": "a"
+  },
+  {
+    "question": "Které hlavní město leží na řece Vltavě?",
+    "a": "Vídeň",
+    "b": "Budapešť",
+    "c": "Praha",
+    "d": "Berlín",
+    "correct": "c"
+  },
+  {
+    "question": "Který herec hrál hlavní roli ve filmu 'Sedm'?",
+    "a": "Morgan Freeman",
+    "b": "Brad Pitt",
+    "c": "Kevin Spacey",
+    "d": "Gwyneth Paltrow",
+    "correct": "b"
+  },
+  {
+    "question": "Která zpěvačka je známá svým albem 'Jagged Little Pill'?",
+    "a": "Tori Amos",
+    "b": "Alanis Morissette",
+    "c": "Fiona Apple",
+    "d": "Sheryl Crow",
+    "correct": "b"
+  },
+  {
+    "question": "Který rok proběhla bitva na Bílé hoře?",
+    "a": "1618",
+    "b": "1620",
+    "c": "1622",
+    "d": "1624",
+    "correct": "b"
+  },
+  {
+    "question": "Které je nejvyšší hora v Alpách?",
+    "a": "Matterhorn",
+    "b": "Mont Blanc",
+    "c": "Eiger",
+    "d": "Jungfrau",
+    "correct": "b"
+  },
+  {
+    "question": "Která herečka získala Oscara za hlavní roli ve filmu 'Ztraceno v překladu'?",
+    "a": "Scarlett Johansson",
+    "b": "Bill Murray",
+    "c": "Naomi Watts",
+    "d": "Julianne Moore",
+    "correct": "a"
+  },
+  {
+    "question": "Která kapela je známá hitem 'Don't Stop Believin'?'",
+    "a": "Foreigner",
+    "b": "Journey",
+    "c": "REO Speedwagon",
+    "d": "Styx",
+    "correct": "b"
+  },
+  {
+    "question": "Který rok začala vláda Karla I. jako českého krále?",
+    "a": "1916",
+    "b": "1917",
+    "c": "1918",
+    "d": "1919",
+    "correct": "a"
+  },
+  {
+    "question": "Které hlavní město leží na řece Temži?",
+    "a": "Oxford",
+    "b": "Cambridge",
+    "c": "Londýn",
+    "d": "Bristol",
+    "correct": "c"
+  },
+  {
+    "question": "Který herec hrál hlavní roli ve filmu 'Mechanický pomeranč'?",
+    "a": "Malcolm McDowell",
+    "b": "Jack Nicholson",
+    "c": "Peter Sellers",
+    "d": "Patrick Magee",
+    "correct": "a"
+  },
+  {
+    "question": "Která zpěvačka je známá svým hitem 'Hallelujah'?",
+    "a": "Jeff Buckley",
+    "b": "Leonard Cohen",
+    "c": "Rufus Wainwright",
+    "d": "k.d. lang",
+    "correct": "b"
+  },
+  {
+    "question": "Který rok proběhla bitva u Lipan?",
+    "a": "1424",
+    "b": "1434",
+    "c": "1444",
+    "d": "1454",
+    "correct": "b"
+  },
+  {
+    "question": "Které je největší jezero v Evropě?",
+    "a": "Oněžské jezero",
+    "b": "Ladožské jezero",
+    "c": "Vänern",
+    "d": "Saimaa",
+    "correct": "b"
+  },
+  {
+    "question": "Která herečka získala Oscara za hlavní roli ve filmu 'Vše o Evě'?",
+    "a": "Anne Baxter",
+    "b": "Bette Davis",
+    "c": "Gloria Swanson",
+    "d": "Marlene Dietrich",
+    "correct": "b"
+  },
+  {
+    "question": "Která kapela je známá hitem 'Sweet Child o' Mine'?",
+    "a": "Mötley Crüe",
+    "b": "Guns N' Roses",
+    "c": "Aerosmith",
+    "d": "Bon Jovi",
+    "correct": "b"
+  },
+  {
+    "question": "Který rok skončila první světová válka?",
+    "a": "1917",
+    "b": "1918",
+    "c": "1919",
+    "d": "1920",
+    "correct": "b"
+  },
+  {
+    "question": "Které pohoří odděluje Evropu od Asie?",
+    "a": "Alpy",
+    "b": "Karpary",
+    "c": "Ural",
+    "d": "Kavkaz",
+    "correct": "c"
+  }
+]
