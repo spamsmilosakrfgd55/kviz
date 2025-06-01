@@ -563,10 +563,7 @@
     "d": "Steely Dan",
     "correct": "b"
   },
- Dobře, zde je druhá část (otázky 201-400):
-JSON
 
-[
   {
     "question": "Který herec ztvárnil roli Don Vita Corleoneho v mladších letech ve filmu 'Kmotr II'?",
     "a": "Al Pacino",
@@ -759,10 +756,6 @@ JSON
     "d": "Mersey",
     "correct": "a"
   },
-Dobře, zde je třetí část (otázky 401-600):
-JSON
-
-[
   {
     "question": "Která herečka získala Oscara za hlavní roli ve filmu 'Královna'?",
     "a": "Kate Winslet",
@@ -1587,10 +1580,7 @@ JSON
     "d": "Ural",
     "correct": "a"
   },
-Dobře, zde je pátá část (otázky 801-1000):
-JSON
 
-[
   {
     "question": "Která herečka získala Oscara za hlavní roli ve filmu 'Černá labuť'?",
     "a": "Natalie Portman",
