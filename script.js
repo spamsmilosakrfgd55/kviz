@@ -50,7 +50,7 @@ function showQuestion() {
   if (tokens <= 0) {
     document.getElementById("question-box").innerHTML = `
       <p>Nemáš žádné tokeny.</p>
-      <p><a href="https://adfoc.us" target="_top">Klikni zde pro dobití ➕</a></p>
+      <p><a href="http://adfoc.us/871508110033103" target="_top">Klikni zde pro dobití ➕</a></p>
     `;
     return;
   }
@@ -96,5 +96,5 @@ function submitAnswer() {
 }
 
 function addTokens() {
-  window.open("https://adfoc.us", "_top");
+  window.open("http://adfoc.us/871508110033103", "_top");
 }
