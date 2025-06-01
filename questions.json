@@ -1,18 +1,162 @@
 [
   {
-    "question": "Kolik je 5 + 3?",
-    "a": "6",
-    "b": "7",
-    "c": "8",
-    "d": "9",
+    "question": "Který herec ztvárnil hlavní roli ve filmu 'Tenkrát na Západě'?",
+    "a": "Clint Eastwood",
+    "b": "Charles Bronson",
+    "c": "Henry Fonda",
+    "d": "Eli Wallach",
+    "correct": "b"
+  },
+  {
+    "question": "Kdo je autorem písně 'Imagine'?",
+    "a": "Paul McCartney",
+    "b": "John Lennon",
+    "c": "George Harrison",
+    "d": "Ringo Starr",
+    "correct": "b"
+  },
+  {
+    "question": "Ve kterém roce byla podepsána Mnichovská dohoda?",
+    "a": "1936",
+    "b": "1938",
+    "c": "1939",
+    "d": "1940",
+    "correct": "b"
+  },
+  {
+    "question": "Jak se jmenuje největší ostrov světa?",
+    "a": "Austrálie",
+    "b": "Grónsko",
+    "c": "Nová Guinea",
+    "d": "Borneo",
+    "correct": "b"
+  },
+  {
+    "question": "Který český herec ztvárnil postavu Švejka ve filmu 'Dobrý voják Švejk' z roku 1956?",
+    "a": "Rudolf Hrušínský",
+    "b": "Josef Bek",
+    "c": "Karel Effa",
+    "d": "Jaroslav Marvan",
+    "correct": "a"
+  },
+  {
+    "question": "Který zpěvák je známý jako 'Král popu'?",
+    "a": "Elvis Presley",
+    "b": "Michael Jackson",
+    "c": "Prince",
+    "d": "Justin Timberlake",
+    "correct": "b"
+  },
+  {
+    "question": "Kdy byla založena Karlova univerzita v Praze?",
+    "a": "1348",
+    "b": "1415",
+    "c": "1492",
+    "d": "1526",
+    "correct": "a"
+  },
+  {
+    "question": "Jak se jmenuje nejdelší řeka v Africe?",
+    "a": "Kongo",
+    "b": "Niger",
+    "c": "Nil",
+    "d": "Zambezi",
     "correct": "c"
   },
   {
-    "question": "Jaké je hlavní město ČR?",
-    "a": "Praha",
-    "b": "Brno",
-    "c": "Ostrava",
-    "d": "Plzeň",
+    "question": "Který herec ztvárnil postavu Jamese Bonda ve filmu 'Skyfall'?",
+    "a": "Pierce Brosnan",
+    "b": "Sean Connery",
+    "c": "Daniel Craig",
+    "d": "Roger Moore",
+    "correct": "c"
+  },
+  {
+    "question": "Kdo nazpíval hit 'Bohemian Rhapsody'?",
+    "a": "The Beatles",
+    "b": "Queen",
+    "c": "Pink Floyd",
+    "d": "Led Zeppelin",
+    "correct": "b"
+  },
+  {
+    "question": "Ve kterém roce začala druhá světová válka?",
+    "a": "1937",
+    "b": "1938",
+    "c": "1939",
+    "d": "1940",
+    "correct": "c"
+  },
+  {
+    "question": "Jak se jmenuje hlavní město Kanady?",
+    "a": "Toronto",
+    "b": "Vancouver",
+    "c": "Ottawa",
+    "d": "Montreal",
+    "correct": "c"
+  },
+  {
+    "question": "Který český herec ztvárnil hlavní roli ve filmu 'Pelíšky'?",
+    "a": "Bolek Polívka",
+    "b": "Miroslav Donutil",
+    "c": "Jiří Kodet",
+    "d": "Josef Abrhám",
+    "correct": "c"
+  },
+  {
+    "question": "Kdo je autorem písně 'Hallelujah'?",
+    "a": "Bob Dylan",
+    "b": "Leonard Cohen",
+    "c": "Jeff Buckley",
+    "d": "Elton John",
+    "correct": "b"
+  },
+  {
+    "question": "Kdy byla vyhlášena nezávislost České republiky?",
+    "a": "1990",
+    "b": "1991",
+    "c": "1992",
+    "d": "1993",
+    "correct": "d"
+  },
+  {
+    "question": "Jak se jmenuje nejvyšší hora Evropy?",
+    "a": "Mont Blanc",
+    "b": "Matterhorn",
+    "c": "Elbrus",
+    "d": "Grossglockner",
+    "correct": "c"
+  },
+  {
+    "question": "Který herec ztvárnil hlavní roli ve filmu 'Forrest Gump'?",
+    "a": "Tom Hanks",
+    "b": "Brad Pitt",
+    "c": "Leonardo DiCaprio",
+    "d": "Johnny Depp",
+    "correct": "a"
+  },
+  {
+    "question": "Kdo je autorem písně 'Like a Rolling Stone'?",
+    "a": "Bob Dylan",
+    "b": "Bruce Springsteen",
+    "c": "Neil Young",
+    "d": "Eric Clapton",
+    "correct": "a"
+  },
+  {
+    "question": "Ve kterém roce byla podepsána Charta 77?",
+    "a": "1976",
+    "b": "1977",
+    "c": "1978",
+    "d": "1979",
+    "correct": "b"
+  },
+  {
+    "question": "Jak se jmenuje největší poušť na světě?",
+    "a": "Sahara",
+    "b": "Gobi",
+    "c": "Kalahari",
+    "d": "Arktická poušť",
     "correct": "a"
   }
 ]
