@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <title>Kasino s otázkami</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🎰 Kvízové kasino 🎰</h1>
+  <p>Tokeny: <span id="tokens">10</span> <button onclick="addTokens()">➕</button></p>
+  
+  <div id="question-box">
+    <p id="question">Načítám otázku...</p>
+    <div id="options">
+      <!-- odpovědi se vloží dynamicky -->
+    </div>
+    <button onclick="submitAnswer()">Odpovědět</button>
+    <p id="feedback"></p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
