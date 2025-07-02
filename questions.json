@@ -1,202 +1,1011 @@
 [
+
   {
-    "question": "Jaký je lékařský název pro zánět středního ucha?",
-    "a": "Otitis externa",
-    "b": "Otitis media",
-    "c": "Labyrintitida",
-    "d": "Mastoiditida",
+
+    "question": "Který orgán produkuje inzulin?",
+
+    "a": "Játra",
+
+    "b": "Slinivka břišní",
+
+    "c": "Ledviny",
+
+    "d": "Štítná žláza",
+
     "correct": "b"
+
   },
+
   {
-    "question": "Který nerv zajišťuje sluch?",
-    "a": "N. trigeminus",
-    "b": "N. facialis",
-    "c": "N. vestibulocochlearis",
-    "d": "N. glossopharyngeus",
+
+    "question": "Jaká je hlavní funkce erytrocytů?",
+
+    "a": "Obrana proti infekcím",
+
+    "b": "Transport kyslíku",
+
+    "c": "Srážení krve",
+
+    "d": "Produkce protilátek",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Který vitamin je rozpustný v tucích?",
+
+    "a": "Vitamin C",
+
+    "b": "Vitamin B12",
+
+    "c": "Vitamin D",
+
+    "d": "Vitamin B6",
+
     "correct": "c"
+
   },
+
   {
-    "question": "Kde se nachází hlasivky?",
-    "a": "V hltanu",
-    "b": "V hrtanu",
-    "c": "V nosohltanu",
-    "d": "V trachee",
+
+    "question": "Který lék patří do skupiny beta-blokátorů?",
+
+    "a": "Atorvastatin",
+
+    "b": "Metoprolol",
+
+    "c": "Omeprazol",
+
+    "d": "Paracetamol",
+
     "correct": "b"
+
   },
+
   {
-    "question": "Jaký je hlavní příznak tonzilitidy?",
-    "a": "Ztráta sluchu",
-    "b": "Bolest hlavy",
-    "c": "Bolest v krku",
-    "d": "Závratě",
+
+    "question": "Co je hlavní funkcí ledvin?",
+
+    "a": "Produkce hormonů",
+
+    "b": "Filtrace krve a tvorba moči",
+
+    "c": "Trávení tuků",
+
+    "d": "Syntéza bílkovin",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Který typ leukocytů je nejpočetnější v krvi?",
+
+    "a": "Lymfocyty",
+
+    "b": "Monocyty",
+
+    "c": "Neutrofily",
+
+    "d": "Eozinofily",
+
     "correct": "c"
+
   },
+
   {
-    "question": "Jak se nazývá odstranění nosní mandle?",
-    "a": "Tonzilektomie",
-    "b": "Adenotomie",
-    "c": "Laryngektomie",
-    "d": "Septoplastika",
+
+    "question": "Jaký je hlavní příznak Parkinsonovy choroby?",
+
+    "a": "Ztráta paměti",
+
+    "b": "Třes v klidu",
+
+    "c": "Vysoký krevní tlak",
+
+    "d": "Bolest kloubů",
+
     "correct": "b"
+
   },
+
   {
-    "question": "Jaký přístroj se používá k vyšetření bubínku?",
-    "a": "Otoskop",
-    "b": "Laryngoskop",
-    "c": "Endoskop",
-    "d": "Tympanometr",
+
+    "question": "Který minerál je nezbytný pro správnou funkci štítné žlázy?",
+
+    "a": "Železo",
+
+    "b": "Vápník",
+
+    "c": "Jód",
+
+    "d": "Hořčík",
+
+    "correct": "c"
+
+  },
+
+  {
+
+    "question": "Co je hlavní příčinou infarktu myokardu?",
+
+    "a": "Nízký krevní tlak",
+
+    "b": "Uzávěr koronární tepny",
+
+    "c": "Nadbytek cholesterolu",
+
+    "d": "Dehydratace",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Který orgán je primárně postižen při cirhóze?",
+
+    "a": "Plíce",
+
+    "b": "Játra",
+
+    "c": "Srdce",
+
+    "d": "Ledviny",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Jaký je normální krevní tlak u dospělého člověka?",
+
+    "a": "90/60 mmHg",
+
+    "b": "120/80 mmHg",
+
+    "c": "140/90 mmHg",
+
+    "d": "160/100 mmHg",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Která struktura v mozku je zodpovědná za rovnováhu?",
+
+    "a": "Hippocampus",
+
+    "b": "Mozkový kmen",
+
+    "c": "Mozzeček",
+
+    "d": "Hypotalamus",
+
+    "correct": "c"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak Cushingova syndromu?",
+
+    "a": "Hubnutí",
+
+    "b": "Obezita s měsíčkovitým obličejem",
+
+    "c": "Vypadávání vlasů",
+
+    "d": "Nízký krevní tlak",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Který hormon reguluje hladinu vápníku v krvi?",
+
+    "a": "Inzulin",
+
+    "b": "Parathormon",
+
+    "c": "Adrenalin",
+
+    "d": "Tyroxin",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Který typ anémie je způsoben nedostatkem železa?",
+
+    "a": "Perniciózní anémie",
+
+    "b": "Hemolytická anémie",
+
+    "c": "Sideropenická anémie",
+
+    "d": "Aplastická anémie",
+
+    "correct": "c"
+
+  },
+
+  {
+
+    "question": "Který lék se používá k léčbě bakteriálních infekcí?",
+
+    "a": "Ibuprofen",
+
+    "b": "Amoxicilin",
+
+    "c": "Paracetamol",
+
+    "d": "Omeprazol",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak glaukomu?",
+
+    "a": "Bolest očí a zhoršené vidění",
+
+    "b": "Zčervenání očí",
+
+    "c": "Svědění očí",
+
+    "d": "Dvojité vidění",
+
     "correct": "a"
+
   },
+
   {
-    "question": "K čemu slouží Eustachova trubice?",
-    "a": "Pro přívod kyslíku do středního ucha",
-    "b": "K odvodu ušního mazu",
-    "c": "K vyrovnání tlaku mezi středním uchem a nosohltanem",
-    "d": "K přenosu zvuku",
-    "correct": "c"
-  },
-  {
-    "question": "Jaký lékařský termín označuje krvácení z nosu?",
-    "a": "Epistaxe",
-    "b": "Rinitida",
-    "c": "Sinusitida",
-    "d": "Hemoptoe",
-    "correct": "a"
-  },
-  {
-    "question": "Který z následujících příznaků je typický pro Ménièrovu nemoc?",
-    "a": "Chrapot",
-    "b": "Ztráta čichu",
-    "c": "Závratě a tinitus",
-    "d": "Bolest krku",
-    "correct": "c"
-  },
-  {
-    "question": "K čemu slouží tympanometrie?",
-    "a": "K vyšetření hlasivek",
-    "b": "K měření tlaku v uchu",
-    "c": "K testování čichu",
-    "d": "K poslechu srdečního rytmu",
+
+    "question": "Který orgán produkuje žluč?",
+
+    "a": "Slinivka břišní",
+
+    "b": "Játra",
+
+    "c": "Žaludek",
+
+    "d": "Tenké střevo",
+
     "correct": "b"
+
   },
+
   {
-    "question": "Jak se nazývá chronický zánět vedlejších nosních dutin?",
-    "a": "Akutní sinusitida",
-    "b": "Chronická rinitida",
-    "c": "Chronická sinusitida",
-    "d": "Septální absces",
-    "correct": "c"
-  },
-  {
-    "question": "Jaký patogen nejčastěji způsobuje akutní tonzilitidu?",
-    "a": "Streptococcus pyogenes",
-    "b": "Staphylococcus aureus",
-    "c": "Haemophilus influenzae",
-    "d": "Candida albicans",
-    "correct": "a"
-  },
-  {
-    "question": "Který ORL problém způsobuje poruchu rovnováhy?",
-    "a": "Otitis externa",
-    "b": "Vestibulární neuronitida",
-    "c": "Sinusitida",
-    "d": "Faryngitida",
+
+    "question": "Jaký je hlavní příznak roztroušené sklerózy?",
+
+    "a": "Zvýšená tělesná teplota",
+
+    "b": "Svalová slabost a poruchy koordinace",
+
+    "c": "Vysoký krevní tlak",
+
+    "d": "Bolest břicha",
+
     "correct": "b"
+
   },
+
   {
-    "question": "Jaký zákrok je prováděn při těžké chrápání způsobené nosní přepážkou?",
-    "a": "Tonzilektomie",
-    "b": "Tracheostomie",
-    "c": "Septoplastika",
-    "d": "Laryngektomie",
-    "correct": "c"
-  },
-  {
-    "question": "Co je tinitus?",
-    "a": "Porucha rovnováhy",
-    "b": "Zánět dutin",
-    "c": "Pískání v uších",
-    "d": "Zánět krčních mandlí",
-    "correct": "c"
-  },
-  {
-    "question": "Která část ucha je postižena při labyrintitidě?",
-    "a": "Vnější ucho",
-    "b": "Střední ucho",
-    "c": "Vnitřní ucho",
-    "d": "Zvukovod",
-    "correct": "c"
-  },
-  {
-    "question": "Který z těchto testů se používá k diagnostice hluchoty?",
-    "a": "Rinného test",
-    "b": "Weberův test",
-    "c": "Tympanometrie",
-    "d": "Všechny uvedené",
-    "correct": "d"
-  },
-  {
-    "question": "Jak se nazývá čichová porucha?",
-    "a": "Ageuzie",
-    "b": "Anosmie",
-    "c": "Afonie",
-    "d": "Dysfagie",
+
+    "question": "Který vitamin je nezbytný pro srážení krve?",
+
+    "a": "Vitamin A",
+
+    "b": "Vitamin K",
+
+    "c": "Vitamin E",
+
+    "d": "Vitamin B12",
+
     "correct": "b"
+
   },
+
   {
-    "question": "Co způsobuje deviaci nosního septa?",
-    "a": "Ztrátu čichu",
-    "b": "Ucpání nosu a obtížné dýchání",
-    "c": "Bolest krku",
-    "d": "Pískání v uších",
+
+    "question": "Co je hlavní funkcí hypofýzy?",
+
+    "a": "Regulace metabolismu",
+
+    "b": "Řízení endokrinních žláz",
+
+    "c": "Filtrace krve",
+
+    "d": "Produkce inzulinu",
+
     "correct": "b"
+
   },
+
   {
-    "question": "Jak se jmenuje porucha hlasu způsobená poškozením hlasivek?",
-    "a": "Dysfonie",
-    "b": "Afonie",
-    "c": "Chrapot",
-    "d": "Všechny uvedené",
-    "correct": "d"
-  },
-  {
-    "question": "Jak se nazývá zánět vnějšího zvukovodu?",
-    "a": "Otitis media",
-    "b": "Otitis externa",
-    "c": "Myringitida",
-    "d": "Mastoiditida",
+
+    "question": "Který typ diabetu je spojen s inzulinovou rezistencí?",
+
+    "a": "Diabetes mellitus 1. typu",
+
+    "b": "Diabetes mellitus 2. typu",
+
+    "c": "Gestací diabetes",
+
+    "d": "Diabetes insipidus",
+
     "correct": "b"
+
   },
+
   {
-    "question": "Jaký mikroorganismus často způsobuje kandidózu v dutině ústní?",
-    "a": "Staphylococcus",
-    "b": "Streptococcus",
-    "c": "Candida albicans",
-    "d": "Aspergillus fumigatus",
+
+    "question": "Který orgán je hlavním místem absorpce živin?",
+
+    "a": "Žaludek",
+
+    "b": "Tenké střevo",
+
+    "c": "Tlusté střevo",
+
+    "d": "Jícen",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak meningitidy?",
+
+    "a": "Bolest břicha",
+
+    "b": "Ztuhlost šíje a horečka",
+
+    "c": "Vyrážka na nohou",
+
+    "d": "Kašel",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Který lék se používá k léčbě vysokého cholesterolu?",
+
+    "a": "Metformin",
+
+    "b": "Atorvastatin",
+
+    "c": "Ibuprofen",
+
+    "d": "Amoxicilin",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Který typ imunitní reakce je zodpovědný za alergické reakce?",
+
+    "a": "Buněčná imunita",
+
+    "b": "Humorální imunita",
+
+    "c": "IgE zprostředkovaná reakce",
+
+    "d": "Autoimunitní reakce",
+
     "correct": "c"
+
   },
+
   {
-    "question": "Která struktura odděluje vnější a střední ucho?",
-    "a": "Bubínek",
-    "b": "Kladívko",
-    "c": "Středoušní dutina",
-    "d": "Labyrint",
-    "correct": "a"
+
+    "question": "Jaký je hlavní příznak hypotyreózy?",
+
+    "a": "Zrychlený tep",
+
+    "b": "Únava a přibývání na váze",
+
+    "c": "Nadměrné pocení",
+
+    "d": "Zvýšená chuť k jídlu",
+
+    "correct": "b"
+
   },
+
   {
-    "question": "Jak se nazývá chirurgické odstranění hlasivek?",
-    "a": "Laryngektomie",
-    "b": "Faryngektomie",
-    "c": "Tonzilektomie",
-    "d": "Tracheotomie",
-    "correct": "a"
+
+    "question": "Který orgán je zodpovědný za detoxikaci alkoholu?",
+
+    "a": "Ledviny",
+
+    "b": "Játra",
+
+    "c": "Plíce",
+
+    "d": "Slinivka břišní",
+
+    "correct": "b"
+
   },
+
   {
-    "question": "Jaký je odborný termín pro poruchu polykání?",
-    "a": "Dysfagie",
-    "b": "Afonie",
-    "c": "Anosmie",
-    "d": "Otalgie",
+
+    "question": "Jaký je hlavní příznak sepse?",
+
+    "a": "Vysoká horečka a pokles krevního tlaku",
+
+    "b": "Bolest kloubů",
+
+    "c": "Zvýšená chuť k jídlu",
+
+    "d": "Zvýšená produkce moči",
+
     "correct": "a"
+
+  },
+
+  {
+
+    "question": "Který typ nádoru je nejčastější u žen?",
+
+    "a": "Karcinom plic",
+
+    "b": "Karcinom prsu",
+
+    "c": "Karcinom prostaty",
+
+    "d": "Karcinom tlustého střeva",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak revmatoidní artritidy?",
+
+    "a": "Bolest velkých kloubů",
+
+    "b": "Symetrická zánětlivá postižení malých kloubů",
+
+    "c": "Osteoporóza",
+
+    "d": "Svalová atrofie",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Který lék se používá k léčbě deprese?",
+
+    "a": "Paracetamol",
+
+    "b": "Fluoxetin",
+
+    "c": "Ibuprofen",
+
+    "d": "Metformin",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak plicní embolie?",
+
+    "a": "Bolest na hrudi a dušnost",
+
+    "b": "Zvracení",
+
+    "c": "Bolest břicha",
+
+    "d": "Bolest hlavy",
+
+    "correct": "a"
+
+  },
+
+  {
+
+    "question": "Který orgán produkuje testosteron?",
+
+    "a": "Nadledviny",
+
+    "b": "Varlata",
+
+    "c": "Štítná žláza",
+
+    "d": "Hypofýza",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak osteoporózy?",
+
+    "a": "Zvýšená tělesná teplota",
+
+    "b": "Lomivost kostí a časté zlomeniny",
+
+    "c": "Bolest svalů",
+
+    "d": "Otoky kloubů",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Který lék se používá k léčbě astmatu?",
+
+    "a": "Salbutamol",
+
+    "b": "Metformin",
+
+    "c": "Atorvastatin",
+
+    "d": "Omeprazol",
+
+    "correct": "a"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak Crohnovy choroby?",
+
+    "a": "Průjem a bolesti břicha",
+
+    "b": "Vysoký krevní tlak",
+
+    "c": "Bolest hlavy",
+
+    "d": "Zvýšená tělesná teplota",
+
+    "correct": "a"
+
+  },
+
+  {
+
+    "question": "Který orgán je zodpovědný za produkci červených krvinek?",
+
+    "a": "Játra",
+
+    "b": "Kostní dřeň",
+
+    "c": "Slezina",
+
+    "d": "Ledviny",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak dna (artritis urica)?",
+
+    "a": "Bolest palce u nohy",
+
+    "b": "Bolest kolena",
+
+    "c": "Otok kotníku",
+
+    "d": "Ztuhlost páteře",
+
+    "correct": "a"
+
+  },
+
+  {
+
+    "question": "Který lék se používá k léčbě epilepsie?",
+
+    "a": "Paracetamol",
+
+    "b": "Valproát",
+
+    "c": "Ibuprofen",
+
+    "d": "Omeprazol",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak žloutenky (hepatitidy)?",
+
+    "a": "Žluté zbarvení kůže a očí",
+
+    "b": "Vyrážka",
+
+    "c": "Bolest kloubů",
+
+    "d": "Zvracení",
+
+    "correct": "a"
+
+  },
+
+  {
+
+    "question": "Který orgán je zodpovědný za udržování acidobazické rovnováhy?",
+
+    "a": "Plíce",
+
+    "b": "Ledviny",
+
+    "c": "Játra",
+
+    "d": "Srdce",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak syndromu dráždivého tračníku?",
+
+    "a": "Krev ve stolici",
+
+    "b": "Bolest břicha a změna frekvence stolice",
+
+    "c": "Vysoká horečka",
+
+    "d": "Zvracení",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Který lék se používá k léčbě hypertenze?",
+
+    "a": "Metformin",
+
+    "b": "Lisinopril",
+
+    "c": "Ibuprofen",
+
+    "d": "Paracetamol",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak rohovkového vředu?",
+
+    "a": "Zčervenání oka a bolest",
+
+    "b": "Zhoršené vidění",
+
+    "c": "Svědění oka",
+
+    "d": "Dvojité vidění",
+
+    "correct": "a"
+
+  },
+
+  {
+
+    "question": "Který orgán je zodpovědný za termoregulaci?",
+
+    "a": "Játra",
+
+    "b": "Kůže",
+
+    "c": "Ledviny",
+
+    "d": "Slinivka břišní",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak pneumonie?",
+
+    "a": "Bolest břicha",
+
+    "b": "Kašel, horečka a dušnost",
+
+    "c": "Bolest kloubů",
+
+    "d": "Zvracení",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Který lék se používá k léčbě migrény?",
+
+    "a": "Paracetamol",
+
+    "b": "Sumatriptan",
+
+    "c": "Metformin",
+
+    "d": "Omeprazol",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak ulcerózní kolitidy?",
+
+    "a": "Krvavé průjmy",
+
+    "b": "Zácpa",
+
+    "c": "Bolest kloubů",
+
+    "d": "Vysoký krevní tlak",
+
+    "correct": "a"
+
+  },
+
+  {
+
+    "question": "Který orgán je zodpovědný za produkci estrogenu?",
+
+    "a": "Nadledviny",
+
+    "b": "Vaječníky",
+
+    "c": "Štítná žláza",
+
+    "d": "Hypofýza",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak chronické obstrukční plicní nemoci (CHOPN)?",
+
+    "a": "Dušnost a chronický kašel",
+
+    "b": "Bolest na hrudi",
+
+    "c": "Zvracení",
+
+    "d": "Bolest hlavy",
+
+    "correct": "a"
+
+  },
+
+  {
+
+    "question": "Který lék se používá k léčbě osteoporózy?",
+
+    "a": "Paracetamol",
+
+    "b": "Alendronát",
+
+    "c": "Ibuprofen",
+
+    "d": "Metformin",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak zeleného zákalu (glaukomu)?",
+
+    "a": "Bolest oka a zhoršené vidění",
+
+    "b": "Zčervenání oka",
+
+    "c": "Svědění oka",
+
+    "d": "Dvojité vidění",
+
+    "correct": "a"
+
+  },
+
+  {
+
+    "question": "Který orgán je zodpovědný za produkci kortizolu?",
+
+    "a": "Štítná žláza",
+
+    "b": "Nadledviny",
+
+    "c": "Hypofýza",
+
+    "d": "Slinivka břišní",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak roztroušené sklerózy?",
+
+    "a": "Svalová slabost a poruchy koordinace",
+
+    "b": "Vysoký krevní tlak",
+
+    "c": "Bolest břicha",
+
+    "d": "Zvracení",
+
+    "correct": "a"
+
+  },
+
+  {
+
+    "question": "Který lék se používá k léčbě schizofrenie?",
+
+    "a": "Paracetamol",
+
+    "b": "Risperidon",
+
+    "c": "Ibuprofen",
+
+    "d": "Metformin",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak infekce močových cest?",
+
+    "a": "Bolest při močení a časté nucení na močení",
+
+    "b": "Bolest břicha",
+
+    "c": "Bolest hlavy",
+
+    "d": "Zvracení",
+
+    "correct": "a"
+
+  },
+
+  {
+
+    "question": "Který orgán je zodpovědný za produkci růstového hormonu?",
+
+    "a": "Hypofýza",
+
+    "b": "Štítná žláza",
+
+    "c": "Nadledviny",
+
+    "d": "Slinivka břišní",
+
+    "correct": "a"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak lupénky (psoriázy)?",
+
+    "a": "Červené, šupinaté kožní léze",
+
+    "b": "Svědění kůže",
+
+    "c": "Vyrážka",
+
+    "d": "Otoky kloubů",
+
+    "correct": "a"
+
+  },
+
+  {
+
+    "question": "Který lék se používá k léčbě HIV?",
+
+    "a": "Paracetamol",
+
+    "b": "Antiretrovirotika (např. Tenofovir)",
+
+    "c": "Ibuprofen",
+
+    "d": "Metformin",
+
+    "correct": "b"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak syndromu karpálního tunelu?",
+
+    "a": "Bolest a brnění v zápěstí a prstech",
+
+    "b": "Bolest ramene",
+
+    "c": "Bolest lokte",
+
+    "d": "Bolest hlavy",
+
+    "correct": "a"
+
+  },
+
+  {
+
+    "question": "Který orgán je zodpovědný za produkci aldosteronu?",
+
+    "a": "Nadledviny",
+
+    "b": "Štítná žláza",
+
+    "c": "Hypofýza",
+
+    "d": "Slinivka břišní",
+
+    "correct": "a"
+
+  },
+
+  {
+
+    "question": "Jaký je hlavní příznak Bechtěrevovy choroby?",
+
+    "a": "Bolest a ztuhlost páteře",
+
+    "b": "Bolest kloubů rukou",
+
+    "c": "Bolest hlavy",
+
+    "d": "Zvracení",
+
+    "correct": "a"
+
   }
+
 ]
