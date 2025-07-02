@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Jaký je lékařský název pro zánět středního ucha?",
+    "a": "Otitis externa",
+    "b": "Otitis media",
+    "c": "Labyrintitida",
+    "d": "Mastoiditida",
+    "correct": "b"
+  },
+  {
+    "question": "Který nerv zajišťuje sluch?",
+    "a": "N. trigeminus",
+    "b": "N. facialis",
+    "c": "N. vestibulocochlearis",
+    "d": "N. glossopharyngeus",
+    "correct": "c"
+  },
+  {
+    "question": "Kde se nachází hlasivky?",
+    "a": "V hltanu",
+    "b": "V hrtanu",
+    "c": "V nosohltanu",
+    "d": "V trachee",
+    "correct": "b"
+  },
+  {
+    "question": "Jaký je hlavní příznak tonzilitidy?",
+    "a": "Ztráta sluchu",
+    "b": "Bolest hlavy",
+    "c": "Bolest v krku",
+    "d": "Závratě",
+    "correct": "c"
+  },
+  {
+    "question": "Jak se nazývá odstranění nosní mandle?",
+    "a": "Tonzilektomie",
+    "b": "Adenotomie",
+    "c": "Laryngektomie",
+    "d": "Septoplastika",
+    "correct": "b"
+  },
+  {
+    "question": "Jaký přístroj se používá k vyšetření bubínku?",
+    "a": "Otoskop",
+    "b": "Laryngoskop",
+    "c": "Endoskop",
+    "d": "Tympanometr",
+    "correct": "a"
+  },
+  {
+    "question": "K čemu slouží Eustachova trubice?",
+    "a": "Pro přívod kyslíku do středního ucha",
+    "b": "K odvodu ušního mazu",
+    "c": "K vyrovnání tlaku mezi středním uchem a nosohltanem",
+    "d": "K přenosu zvuku",
+    "correct": "c"
+  },
+  {
+    "question": "Jaký lékařský termín označuje krvácení z nosu?",
+    "a": "Epistaxe",
+    "b": "Rinitida",
+    "c": "Sinusitida",
+    "d": "Hemoptoe",
+    "correct": "a"
+  },
+  {
+    "question": "Který z následujících příznaků je typický pro Ménièrovu nemoc?",
+    "a": "Chrapot",
+    "b": "Ztráta čichu",
+    "c": "Závratě a tinitus",
+    "d": "Bolest krku",
+    "correct": "c"
+  },
+  {
+    "question": "K čemu slouží tympanometrie?",
+    "a": "K vyšetření hlasivek",
+    "b": "K měření tlaku v uchu",
+    "c": "K testování čichu",
+    "d": "K poslechu srdečního rytmu",
+    "correct": "b"
+  },
+  {
+    "question": "Jak se nazývá chronický zánět vedlejších nosních dutin?",
+    "a": "Akutní sinusitida",
+    "b": "Chronická rinitida",
+    "c": "Chronická sinusitida",
+    "d": "Septální absces",
+    "correct": "c"
+  },
+  {
+    "question": "Jaký patogen nejčastěji způsobuje akutní tonzilitidu?",
+    "a": "Streptococcus pyogenes",
+    "b": "Staphylococcus aureus",
+    "c": "Haemophilus influenzae",
+    "d": "Candida albicans",
+    "correct": "a"
+  },
+  {
+    "question": "Který ORL problém způsobuje poruchu rovnováhy?",
+    "a": "Otitis externa",
+    "b": "Vestibulární neuronitida",
+    "c": "Sinusitida",
+    "d": "Faryngitida",
+    "correct": "b"
+  },
+  {
+    "question": "Jaký zákrok je prováděn při těžké chrápání způsobené nosní přepážkou?",
+    "a": "Tonzilektomie",
+    "b": "Tracheostomie",
+    "c": "Septoplastika",
+    "d": "Laryngektomie",
+    "correct": "c"
+  },
+  {
+    "question": "Co je tinitus?",
+    "a": "Porucha rovnováhy",
+    "b": "Zánět dutin",
+    "c": "Pískání v uších",
+    "d": "Zánět krčních mandlí",
+    "correct": "c"
+  },
+  {
+    "question": "Která část ucha je postižena při labyrintitidě?",
+    "a": "Vnější ucho",
+    "b": "Střední ucho",
+    "c": "Vnitřní ucho",
+    "d": "Zvukovod",
+    "correct": "c"
+  },
+  {
+    "question": "Který z těchto testů se používá k diagnostice hluchoty?",
+    "a": "Rinného test",
+    "b": "Weberův test",
+    "c": "Tympanometrie",
+    "d": "Všechny uvedené",
+    "correct": "d"
+  },
+  {
+    "question": "Jak se nazývá čichová porucha?",
+    "a": "Ageuzie",
+    "b": "Anosmie",
+    "c": "Afonie",
+    "d": "Dysfagie",
+    "correct": "b"
+  },
+  {
+    "question": "Co způsobuje deviaci nosního septa?",
+    "a": "Ztrátu čichu",
+    "b": "Ucpání nosu a obtížné dýchání",
+    "c": "Bolest krku",
+    "d": "Pískání v uších",
+    "correct": "b"
+  },
+  {
+    "question": "Jak se jmenuje porucha hlasu způsobená poškozením hlasivek?",
+    "a": "Dysfonie",
+    "b": "Afonie",
+    "c": "Chrapot",
+    "d": "Všechny uvedené",
+    "correct": "d"
+  },
+  {
+    "question": "Jak se nazývá zánět vnějšího zvukovodu?",
+    "a": "Otitis media",
+    "b": "Otitis externa",
+    "c": "Myringitida",
+    "d": "Mastoiditida",
+    "correct": "b"
+  },
+  {
+    "question": "Jaký mikroorganismus často způsobuje kandidózu v dutině ústní?",
+    "a": "Staphylococcus",
+    "b": "Streptococcus",
+    "c": "Candida albicans",
+    "d": "Aspergillus fumigatus",
+    "correct": "c"
+  },
+  {
+    "question": "Která struktura odděluje vnější a střední ucho?",
+    "a": "Bubínek",
+    "b": "Kladívko",
+    "c": "Středoušní dutina",
+    "d": "Labyrint",
+    "correct": "a"
+  },
+  {
+    "question": "Jak se nazývá chirurgické odstranění hlasivek?",
+    "a": "Laryngektomie",
+    "b": "Faryngektomie",
+    "c": "Tonzilektomie",
+    "d": "Tracheotomie",
+    "correct": "a"
+  },
+  {
+    "question": "Jaký je odborný termín pro poruchu polykání?",
+    "a": "Dysfagie",
+    "b": "Afonie",
+    "c": "Anosmie",
+    "d": "Otalgie",
+    "correct": "a"
+  }
+]
