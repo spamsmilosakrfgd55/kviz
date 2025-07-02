@@ -108,3 +108,24 @@ function submitAnswer() {
 function addTokens() {
   window.open("http://adfoc.us/871508110033103", "_top");
 }
+
+// Cheat: Reset všech cookies a tokenů (tichý)
+window.reset = function() {
+  document.cookie.split(";").forEach(cookie => {
+    const name = cookie.split("=")[0].trim();
+    document.cookie = name + "=;expires=Thu, 01 Jan 1970 00:00:00 GMT;path=/";
+  });
+  tokens = 10;
+  updateTokenDisplay();
+};
+
+// Cheat: Přidání tokenů (tichý)
+window.Game = {
+  Earn: function(amount) {
+    if (typeof amount === "number" && !isNaN(amount)) {
+      tokens += amount;
+      updateTokenDisplay();
+    }
+  }
+};
+
